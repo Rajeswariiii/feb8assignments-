@@ -1,0 +1,17 @@
+# p=(input('comparsion operation')
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+print(a<b)
+print(a>b)
+print(a>=b)
+print(a<=b)
+print(a==b)
+print(a!=b)
+enter a:10
+enter b:5
+False
+True
+True
+False
+False
+True
